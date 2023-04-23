@@ -2,7 +2,7 @@ import React from 'react';
 import Form from 'react-bootstrap/Form';
 import Figure from 'react-bootstrap/Figure'; 
 import Button from 'react-bootstrap/Button';
- {/*Below is 5. for the cups figure. Components 6. is the form for the types of cups they want us to make. */}
+ {/*Below is 6. for the cups figure. Components 7. is the form for the types of cups they want us to make. */}
 export default function Cups() {
     return(
     <>
