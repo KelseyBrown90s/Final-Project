@@ -7,7 +7,7 @@ import NewOrder from './NewOrder';
 import NewCoffeetypeForm from './new-coffeetype-form';
 export default function Coffee() {
     return(
-      //8.-11. Components are the button, List Group,Image, and Accordion 
+      //8.-10. Components are the button, List Group,Image, and Accordion 
     <>
       <Button variant="secondary">Our Drink Groups</Button>{' '}
       <ListGroup>
